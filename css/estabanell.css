@@ -1,0 +1,42 @@
+body {
+	font-family: sans-serif;
+	font-size: 15px;
+	background-color: #ffffff;
+}
+div {
+	margin: 4px;
+}
+#cabecera {
+	color: black;
+	background-color: #d9d9d9;
+	padding: 7px;
+	font-weight: bold;
+}            
+#error {
+	color: #990000;
+	background-color: #FAD2DC;
+	padding: 7px;
+	font-weight: bold;
+}
+#Escalar {
+	background-color: #fdfcef;
+	margin-top: 25px;
+	padding: 7px;
+	font-weight: bold;           
+}          
+.col1 {
+	width: 450px !important;
+	display: inline-block;
+}
+.col2 {
+	display: inline-block;
+}   
+input[type=button] {
+	color: black;
+	background-color: #75acf5;
+	font-size: 15px;
+	padding: 3px;
+	margin-bottom: 10px;
+	font-weight: bold;
+	border: 2px solid black;
+}
